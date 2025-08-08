@@ -1,0 +1,32 @@
+﻿namespace Condicionales
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // 1 CREAR UN ALGORITMO QUE PERMITA INGRESAS EL NOMBRE Y SUELDO DE UN USUARIO,
+            //SI EL SUELDO SUPERA LOS 3000 PESOS DEBE MOSTRAR UN MENSAJE DICIENDO EL NOMBRE DE LA PERSONA INDICANDO QUE DEBE ABONAR IMPUESTOS
+
+            string nombre = "";
+            int sueldo = 0;
+
+            Console.WriteLine("Ingrese su nombre:");
+            nombre = Console.ReadLine(); //Todo lo que leo desde la consola es un string
+
+            
+            Console.WriteLine("Ingrese su sueldo:");
+            sueldo = Convert.ToInt32(Console.ReadLine()); //Si no lo convierto a int, no puedo hacer comparaciones con el sueldo
+
+            if (sueldo>3000)
+            {
+                Console.WriteLine($"La persona {nombre} Debe pagar impuestos");
+            }
+            //
+
+
+
+
+        }
+    }
+}
