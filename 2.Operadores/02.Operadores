@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2.Operadores
+namespace _02.Operadores
 {
     internal class Program
     {
