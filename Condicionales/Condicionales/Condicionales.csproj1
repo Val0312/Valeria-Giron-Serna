@@ -25,29 +25,11 @@
             }
 
 
-            //Crea un algoritmo que lea la edad de un usuario,
-            //si el usuario es mayor de 18, se debe mostrar el siguiente mensaje:
-            //“Bienvenido a mi sitio web”.
-
-            int edad = 0;
-            Console.WriteLine("Ingrese su edad:");
-
-            //Console.ReadLine() lee un string, por lo que debo convertirlo a int con int.Parse o Convert.ToInt32
-
-            edad = int.Parse (Console.ReadLine());
-
-            if (edad>18)
-            {
-                Console.WriteLine("Bienvenido a mi sitio web");
-            }
-            else
-            {
-                Console.WriteLine("Lo siento, debes ser mayor de 18 años para acceder a este sitio.");
-            }
-
+            
 
 
 
         }
     }
 }
+
