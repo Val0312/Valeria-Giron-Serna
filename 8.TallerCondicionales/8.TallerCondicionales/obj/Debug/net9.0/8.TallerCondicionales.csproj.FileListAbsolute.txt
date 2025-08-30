@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\net9.0\8.TallerCondicionales.exe
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\net9.0\8.TallerCondicionales.deps.json
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\net9.0\8.TallerCondicionales.runtimeconfig.json
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\net9.0\8.TallerCondicionales.dll
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\bin\Debug\net9.0\8.TallerCondicionales.pdb
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.dll
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\refint\8.TallerCondicionales.dll
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.pdb
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\8.TallerCondicionales.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\8.TallerCondicionales\8.TallerCondicionales\obj\Debug\net9.0\ref\8.TallerCondicionales.dll

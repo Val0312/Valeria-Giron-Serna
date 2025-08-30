@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\bin\Debug\net9.0\9.Ciclowhile.exe
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\bin\Debug\net9.0\9.Ciclowhile.deps.json
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\bin\Debug\net9.0\9.Ciclowhile.runtimeconfig.json
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\bin\Debug\net9.0\9.Ciclowhile.dll
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\bin\Debug\net9.0\9.Ciclowhile.pdb
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.dll
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\refint\9.Ciclowhile.dll
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.pdb
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\9.Ciclowhile.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\9.Ciclowhile\9.Ciclowhile\obj\Debug\net9.0\ref\9.Ciclowhile.dll
