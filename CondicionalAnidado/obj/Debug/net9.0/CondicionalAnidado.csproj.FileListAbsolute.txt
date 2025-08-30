@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\bin\Debug\net9.0\CondicionalAnidado.exe
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\bin\Debug\net9.0\CondicionalAnidado.deps.json
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\bin\Debug\net9.0\CondicionalAnidado.runtimeconfig.json
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\bin\Debug\net9.0\CondicionalAnidado.dll
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\bin\Debug\net9.0\CondicionalAnidado.pdb
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.dll
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\refint\CondicionalAnidado.dll
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.pdb
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\CondicionalAnidado.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CondicionalAnidado\CondicionalAnidado\obj\Debug\net9.0\ref\CondicionalAnidado.dll
