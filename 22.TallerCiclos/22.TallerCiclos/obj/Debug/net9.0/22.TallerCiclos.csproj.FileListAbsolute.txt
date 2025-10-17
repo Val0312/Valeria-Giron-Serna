@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.exe
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.deps.json
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.runtimeconfig.json
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.dll
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.pdb
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.dll
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\refint\22.TallerCiclos.dll
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.pdb
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\ref\22.TallerCiclos.dll
