@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\bin\Debug\net9.0\28.TallerMatrices.exe
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\bin\Debug\net9.0\28.TallerMatrices.deps.json
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\bin\Debug\net9.0\28.TallerMatrices.runtimeconfig.json
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\bin\Debug\net9.0\28.TallerMatrices.dll
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\bin\Debug\net9.0\28.TallerMatrices.pdb
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.dll
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\refint\28.TallerMatrices.dll
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.pdb
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\28.TallerMatrices.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\28.TallerMatrices\28.TallerMatrices\obj\Debug\net9.0\ref\28.TallerMatrices.dll

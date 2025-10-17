@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\bin\Debug\net9.0\28.ProgramacionModular.exe
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\bin\Debug\net9.0\28.ProgramacionModular.deps.json
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\bin\Debug\net9.0\28.ProgramacionModular.runtimeconfig.json
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\bin\Debug\net9.0\28.ProgramacionModular.dll
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\bin\Debug\net9.0\28.ProgramacionModular.pdb
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.dll
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\refint\28.ProgramacionModular.dll
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.pdb
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\28.ProgramacionModular.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\28.ProgramacionModular\28.ProgramacionModular\obj\Debug\net9.0\ref\28.ProgramacionModular.dll
