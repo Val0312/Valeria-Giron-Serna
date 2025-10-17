@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\17.While\17.While\bin\Debug\net9.0\17.While.exe
+C:\Users\Usuario\source\repos\17.While\17.While\bin\Debug\net9.0\17.While.deps.json
+C:\Users\Usuario\source\repos\17.While\17.While\bin\Debug\net9.0\17.While.runtimeconfig.json
+C:\Users\Usuario\source\repos\17.While\17.While\bin\Debug\net9.0\17.While.dll
+C:\Users\Usuario\source\repos\17.While\17.While\bin\Debug\net9.0\17.While.pdb
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.dll
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\refint\17.While.dll
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.pdb
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\17.While.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\17.While\17.While\obj\Debug\net9.0\ref\17.While.dll
