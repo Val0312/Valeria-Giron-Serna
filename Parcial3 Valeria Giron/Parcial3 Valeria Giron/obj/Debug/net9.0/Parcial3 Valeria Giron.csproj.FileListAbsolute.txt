@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\bin\Debug\net9.0\Parcial3 Valeria Giron.exe
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\bin\Debug\net9.0\Parcial3 Valeria Giron.deps.json
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\bin\Debug\net9.0\Parcial3 Valeria Giron.runtimeconfig.json
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\bin\Debug\net9.0\Parcial3 Valeria Giron.dll
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\bin\Debug\net9.0\Parcial3 Valeria Giron.pdb
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.dll
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\refint\Parcial3 Valeria Giron.dll
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.pdb
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\Parcial3 Valeria Giron.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Parcial3 Valeria Giron\Parcial3 Valeria Giron\obj\Debug\net9.0\ref\Parcial3 Valeria Giron.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\bin\Debug\net9.0\ParcialCondicionales.ValeriaGirón.exe
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\bin\Debug\net9.0\ParcialCondicionales.ValeriaGirón.deps.json
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\bin\Debug\net9.0\ParcialCondicionales.ValeriaGirón.runtimeconfig.json
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\bin\Debug\net9.0\ParcialCondicionales.ValeriaGirón.dll
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\bin\Debug\net9.0\ParcialCondicionales.ValeriaGirón.pdb
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.dll
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\refint\ParcialCondicionales.ValeriaGirón.dll
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.pdb
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ParcialCondicionales.ValeriaGirón.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ParcialCondicionales.ValeriaGirón\ParcialCondicionales.ValeriaGirón\obj\Debug\net9.0\ref\ParcialCondicionales.ValeriaGirón.dll

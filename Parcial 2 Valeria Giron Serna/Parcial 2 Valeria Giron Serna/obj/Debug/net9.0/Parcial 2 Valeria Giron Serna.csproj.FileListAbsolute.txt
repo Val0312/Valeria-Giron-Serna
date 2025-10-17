@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\bin\Debug\net9.0\Parcial 2 Valeria Giron Serna.exe
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\bin\Debug\net9.0\Parcial 2 Valeria Giron Serna.deps.json
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\bin\Debug\net9.0\Parcial 2 Valeria Giron Serna.runtimeconfig.json
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\bin\Debug\net9.0\Parcial 2 Valeria Giron Serna.dll
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\bin\Debug\net9.0\Parcial 2 Valeria Giron Serna.pdb
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.dll
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\refint\Parcial 2 Valeria Giron Serna.dll
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.pdb
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\Parcial 2 Valeria Giron Serna.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Parcial 2 Valeria Giron Serna\Parcial 2 Valeria Giron Serna\obj\Debug\net9.0\ref\Parcial 2 Valeria Giron Serna.dll
